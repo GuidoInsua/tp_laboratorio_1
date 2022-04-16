@@ -1,9 +1,5 @@
 /*
-Guido Agustin Insua
-DNI: 42806238
-Divicion: 1°C
-
-TP 1
+TP 1 Guido
 */
 
 #include <stdio.h>
